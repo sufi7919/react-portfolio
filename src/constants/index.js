@@ -271,7 +271,7 @@ export const workExperiences = [
     id: 2,
     name: 'IQVIA',
     pos: 'Java Full Stack Developer',
-    duration: 'Mar 2023 - Present',
+    duration: 'Mar 2023 - Apr 2024',
     title: "IQVIA is a PLP (Patient Linking System). I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
     icon: '/assets/iqv.png',
     animation: 'victory',
