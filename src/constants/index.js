@@ -260,6 +260,15 @@ export const calculateSizes = (isSmall, isMobile, isTablet) => {
 export const workExperiences = [
   {
     id: 1,
+    name: 'CVS Health',
+    pos: ' Sr. Java Full Stack Developer',
+    duration: 'Apr 2024 - Present',
+    title: "CVS Health is Contributed to the development and enhancement of a fully functional healthcare platform focused on patient management, prescription services, and digital health solutions. .",
+    icon: '/public/assets/cvs.avif',
+    animation: 'victory',
+  },
+  {
+    id: 2,
     name: 'IQVIA',
     pos: 'Java Full Stack Developer',
     duration: 'Mar 2023 - Present',
@@ -268,7 +277,7 @@ export const workExperiences = [
     animation: 'victory',
   },
   {
-    id: 2,
+    id: 3,
     name: 'Finish Line',
     pos: 'Java Full Stack Developer',
     duration: 'Aug 2021 - Feb 2023',
@@ -277,7 +286,7 @@ export const workExperiences = [
     animation: 'clapping',
   },
   {
-    id: 3,
+    id: 4,
     name: 'Mastercard',
     pos: 'Java Full Stack Developer',
     duration: 'Apr 2019 - Jul 2021',
@@ -286,7 +295,7 @@ export const workExperiences = [
     animation: 'salute',
   },
   {
-    id: 4,
+    id: 5,
     name: 'T-Mobile',
     pos: 'Jr.Java Developer',
     duration: 'May 2016 - Feb 2019',
