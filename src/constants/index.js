@@ -264,7 +264,7 @@ export const workExperiences = [
     pos: ' Sr. Java Full Stack Developer',
     duration: 'Apr 2024 - Present',
     title: "CVS Health is Contributed to the development and enhancement of a fully functional healthcare platform focused on patient management, prescription services, and digital health solutions. .",
-    icon: '/public/assets/cvs.png',
+    icon: '/public/assets/icvs.jpeg',
     animation: 'victory',
   },
   {
