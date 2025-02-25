@@ -273,7 +273,7 @@ export const workExperiences = [
     pos: 'Java Full Stack Developer',
     duration: 'Mar 2023 - Apr 2024',
     title: "IQVIA is a PLP (Patient Linking System). I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
-    icon: '/assets/iqv.png',
+    icon: '/assets/icvs.jpeg',
     animation: 'victory',
   },
   {
