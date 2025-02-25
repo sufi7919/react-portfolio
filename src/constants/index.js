@@ -298,7 +298,7 @@ export const workExperiences = [
     id: 5,
     name: 'T-Mobile',
     pos: 'Jr.Java Developer',
-    duration: 'May 2016 - Feb 2019',
+    duration: 'May 2017 - Feb 2019',
     title: "Develop software products that would enhance business performance.I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
     icon: '/assets/TMobile.png',
     animation: 'clapping',
