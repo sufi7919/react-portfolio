@@ -25,7 +25,7 @@ const About = () => {
             <div>
               <p className="grid-headtext">Hi, I am Sofiyan</p>
               <p className="grid-subtext">
-                With 09+ years of experience, I have honed my skills in both frontend and backend dev, creating dynamic
+                With 07+ years of experience, I have honed my skills in both frontend and backend dev, creating dynamic
                 and responsive websites.
               </p>
             </div>
