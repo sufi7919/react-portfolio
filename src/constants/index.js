@@ -264,7 +264,7 @@ export const workExperiences = [
     pos: ' Sr. Java Full Stack Developer',
     duration: 'Apr 2024 - Present',
     title: "CVS Health is Contributed to the development and enhancement of a fully functional healthcare platform focused on patient management, prescription services, and digital health solutions. .",
-    icon: '/assets/cvs.png',
+    icon: '/assets/icvs.jpeg',
     animation: 'salute',
   },
   {
@@ -273,7 +273,7 @@ export const workExperiences = [
     pos: 'Java Full Stack Developer',
     duration: 'Mar 2023 - Apr 2024',
     title: "IQVIA is a PLP (Patient Linking System). I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
-    icon: '/assets/icvs.jpeg',
+    icon: '/assets/iqv.png',
     animation: 'victory',
   },
   {
